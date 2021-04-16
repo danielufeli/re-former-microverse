@@ -45,7 +45,7 @@
   ```
   rails server
   ```
-- Then click this url [http://127.0.0.1:3000](http://127.0.0.1:3000) To open the server in browser.
+- Then click this url [http://127.0.0.1:3000](http://127.0.0.1:3000) to open the server in browser.
 
 - To create a new user add at the end of the url:
   ```
@@ -55,9 +55,11 @@
 
 - To edit a user add at the end of the url:
   ```
-  /user/(id)/edit
+  /user/(*id)/edit
   ```
 - Press enter and update the information required.
+
+- *Replace *id for a valid id(1, 2, 3...).
 
 ## Authors
 
