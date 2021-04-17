@@ -49,13 +49,13 @@
 
 - To create a new user add at the end of the url:
   ```
-  /user/new
+  /users/new
   ```
 - Press enter and type the information required.
 
 - To edit a user add at the end of the url:
   ```
-  /user/(*id)/edit
+  /users/(*id)/edit
   ```
 - Press enter and update the information required.
 
